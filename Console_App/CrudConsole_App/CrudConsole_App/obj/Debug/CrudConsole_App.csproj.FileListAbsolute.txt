@@ -1,0 +1,7 @@
+D:\C# Courses\Console_App\CrudConsole_App\CrudConsole_App\bin\Debug\CrudConsole_App.exe.config
+D:\C# Courses\Console_App\CrudConsole_App\CrudConsole_App\bin\Debug\CrudConsole_App.exe
+D:\C# Courses\Console_App\CrudConsole_App\CrudConsole_App\bin\Debug\CrudConsole_App.pdb
+D:\C# Courses\Console_App\CrudConsole_App\CrudConsole_App\obj\Debug\CrudConsole_App.csproj.AssemblyReference.cache
+D:\C# Courses\Console_App\CrudConsole_App\CrudConsole_App\obj\Debug\CrudConsole_App.csproj.CoreCompileInputs.cache
+D:\C# Courses\Console_App\CrudConsole_App\CrudConsole_App\obj\Debug\CrudConsole_App.exe
+D:\C# Courses\Console_App\CrudConsole_App\CrudConsole_App\obj\Debug\CrudConsole_App.pdb
