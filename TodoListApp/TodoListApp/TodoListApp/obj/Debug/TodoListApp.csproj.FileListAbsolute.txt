@@ -1,0 +1,7 @@
+D:\C# Courses\TodoListApp\TodoListApp\TodoListApp\bin\Debug\TodoListApp.exe.config
+D:\C# Courses\TodoListApp\TodoListApp\TodoListApp\bin\Debug\TodoListApp.exe
+D:\C# Courses\TodoListApp\TodoListApp\TodoListApp\bin\Debug\TodoListApp.pdb
+D:\C# Courses\TodoListApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csproj.AssemblyReference.cache
+D:\C# Courses\TodoListApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csproj.CoreCompileInputs.cache
+D:\C# Courses\TodoListApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.exe
+D:\C# Courses\TodoListApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.pdb
