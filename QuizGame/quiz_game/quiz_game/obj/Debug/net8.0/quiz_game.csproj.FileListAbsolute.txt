@@ -1,0 +1,14 @@
+D:\C# Courses\QuizGame\quiz_game\quiz_game\bin\Debug\net8.0\quiz_game.exe
+D:\C# Courses\QuizGame\quiz_game\quiz_game\bin\Debug\net8.0\quiz_game.deps.json
+D:\C# Courses\QuizGame\quiz_game\quiz_game\bin\Debug\net8.0\quiz_game.runtimeconfig.json
+D:\C# Courses\QuizGame\quiz_game\quiz_game\bin\Debug\net8.0\quiz_game.dll
+D:\C# Courses\QuizGame\quiz_game\quiz_game\bin\Debug\net8.0\quiz_game.pdb
+D:\C# Courses\QuizGame\quiz_game\quiz_game\obj\Debug\net8.0\quiz_game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Courses\QuizGame\quiz_game\quiz_game\obj\Debug\net8.0\quiz_game.AssemblyInfoInputs.cache
+D:\C# Courses\QuizGame\quiz_game\quiz_game\obj\Debug\net8.0\quiz_game.AssemblyInfo.cs
+D:\C# Courses\QuizGame\quiz_game\quiz_game\obj\Debug\net8.0\quiz_game.csproj.CoreCompileInputs.cache
+D:\C# Courses\QuizGame\quiz_game\quiz_game\obj\Debug\net8.0\quiz_game.dll
+D:\C# Courses\QuizGame\quiz_game\quiz_game\obj\Debug\net8.0\refint\quiz_game.dll
+D:\C# Courses\QuizGame\quiz_game\quiz_game\obj\Debug\net8.0\quiz_game.pdb
+D:\C# Courses\QuizGame\quiz_game\quiz_game\obj\Debug\net8.0\quiz_game.genruntimeconfig.cache
+D:\C# Courses\QuizGame\quiz_game\quiz_game\obj\Debug\net8.0\ref\quiz_game.dll
